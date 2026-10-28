@@ -1,0 +1,12 @@
+**/bin/
+**/obj/
+dist/
+.vs/
+*.user
+test-assets/
+TestResults/
+*.trx
+*.coverage
+.env
+.env.*
+!.env.example
